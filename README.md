@@ -4,7 +4,7 @@ https://itisveryhard.github.io/BlastGame/
 
 ## Description of the general mechanics of the game
 
-Test task for a gaming company. The requirements indicate to use only html + javascript. The use of frameworks such as React/Vue/Angular is prohibited.
+Test task for a gamedev company. The requirements indicate to use only html + javascript. The use of frameworks such as React/Vue/Angular is prohibited.
 
 * The game consists of a playing field of arbitrary size N*M
 * Each cell of the field contains a game object (hereinafter referred to as a tile) of a certain color. The number of possible color options is C.

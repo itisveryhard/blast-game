@@ -1,6 +1,6 @@
 # Game with Blast mechanics
 
-[https://itisveryhard.github.io/BlastGame/]
+https://itisveryhard.github.io/BlastGame/
 
 ## Description of the general mechanics of the game
 

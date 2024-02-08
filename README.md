@@ -16,5 +16,5 @@ Test task for a gamedev company. The requirements indicate to use only html + ja
 
 ## Stack
 
-* HTML 5, Canvas, CSS
+* HTML 5, CSS
 * JS

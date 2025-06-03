@@ -4,8 +4,6 @@ A small browser game built with **Pixi.js** and **TypeScript**, inspired by arca
 
 🟢 **[▶️ Play Live Demo](https://itisveryhard.github.io/blast-game/)**
 
-![Screenshot](./screenshot.png)
-
 ---
 
 ## 🎮 Features
